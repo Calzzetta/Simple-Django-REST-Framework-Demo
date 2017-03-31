@@ -23,5 +23,5 @@ python manage.py runserver
 The admin page will be running on http://localhost:8000/admin/
 To see the list of employess, access http://localhost:8000/employee/
 
-To get a specific employee, access http://localhost:8000/employee/<email>/
+To get a specific employee, access http://localhost:8000/employee/%email%/
 ex: http://localhost:8000/employee/demo@user.com/
